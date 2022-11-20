@@ -1,5 +1,6 @@
+title: Devlikeapro
+description: We develop projects. Like a pro.
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: [Devlikeapro]
-description: [We develop projects. Like a pro.]
+
